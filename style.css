@@ -45,6 +45,6 @@ button {
   font-family: "Fira Mono", monospace;
   line-height: 0.3;
 }
-#link-to-github {
-  text-align: left;
+#profile {
+  font-family: monospace;
 }
